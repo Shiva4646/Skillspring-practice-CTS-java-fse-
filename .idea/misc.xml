@@ -6,6 +6,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Week_02_Spring_Core_Maven/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week_02_Spring_Data_JPA/orm-learn/pom.xml" />
       </list>
     </option>
   </component>
