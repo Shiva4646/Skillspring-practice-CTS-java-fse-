@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week_01_Engineering_Concepts/FactoryMethodPatternExample/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_01_Engineering_Concepts/FinancialForecasting/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week_01_Engineering_Concepts/SingletonPatternExample/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week_02_Spring_Core_Maven/LibraryManagement/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
