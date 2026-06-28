@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="LibraryManagement" />
         <module name="orm-learn" />
+        <module name="EmployeeManagementSystem" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EmployeeManagementSystem" options="-parameters" />
       <module name="orm-learn" options="-parameters" />
     </option>
   </component>
