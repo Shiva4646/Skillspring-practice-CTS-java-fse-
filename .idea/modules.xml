@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS - JAVA FSE.iml" filepath="$PROJECT_DIR$/.idea/CTS - JAVA FSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_03_Spring_Boot_REST/EmployeeManagementSystem/EmployeeManagementSystem.iml" filepath="$PROJECT_DIR$/Week_03_Spring_Boot_REST/EmployeeManagementSystem/EmployeeManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_04_Microservices_Quality/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Week_04_Microservices_Quality/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_04_Microservices_Quality/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/Week_04_Microservices_Quality/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_04_Microservices_Quality/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/Week_04_Microservices_Quality/employee-service/employee-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_02_Spring_Data_JPA/orm-learn/orm-learn.iml" filepath="$PROJECT_DIR$/Week_02_Spring_Data_JPA/orm-learn/orm-learn.iml" />
     </modules>
   </component>

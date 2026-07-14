@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LibraryManagement" />
+        <module name="api-gateway" />
+        <module name="discovery-server" />
         <module name="orm-learn" />
         <module name="EmployeeManagementSystem" />
+        <module name="employee-service" />
       </profile>
     </annotationProcessing>
   </component>
